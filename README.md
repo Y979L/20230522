@@ -32,7 +32,7 @@
 |3|张飞|俺也一样|
 
 
-# 列表
+# 列表：分为有序和无序，可以混合使用
 * Linux高级编程语言
   * Github基础
     * git基本命令
@@ -54,6 +54,29 @@
   1. Apex
   2. Pubg
 3. Windows网络编程
+
+# 超链接
+[bilibili弹幕网](https://www.bilibili.com "点击跳转")
+![屏幕截图](C://Users//86159//Pictures//Screenshots//111.png "点击跳转")
+     本地图片无法被github识别与显示，需要将本地图片上传到某个图床网站，生成对应的URL网络图片地址，而后可以再github中显示与使用
+
+# 插入代码片段
+
+```c
+   #include<stdio.h>
+   int main()
+   {
+      return 0;
+   }
+
+```   
+
+```cpp
+    #include<iostream>
+
+```
+
+    
 
 
 
