@@ -34,25 +34,25 @@
 
 # 列表
 * Linux高级编程语言
- * Github基础
-  * git基本命令
-  * github三要素
- * 正则表达式
- * Signal信号机制
+  * Github基础
+    * git基本命令
+    * github三要素
+  * 正则表达式
+  * Signal信号机制
 * FPS游戏
- * Apex
- * Pubg
+  * Apex
+  * Pubg
 * Windows网络编程
 
 1. Linux高级编程语言
- 1. Github基础
-  1. git基本命令
-  2. github三要素
- 2. 正则表达式
- 3. Signal信号机制
+  1. Github基础
+    1. git基本命令
+    2. github三要素
+  2. 正则表达式
+  3. Signal信号机制
 2. FPS游戏
- 1. Apex
- 2. Pubg
+  1. Apex
+  2. Pubg
 3. Windows网络编程
 
 
